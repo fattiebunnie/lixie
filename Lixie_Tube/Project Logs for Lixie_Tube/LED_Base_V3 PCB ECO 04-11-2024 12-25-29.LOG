@@ -1,0 +1,71 @@
+Added Net: Name=DIN_SK6812_1
+Added Net: Name=DIN_SK6812_2
+Added Pin To Net: NetName=DIN_SK6812 Pin=D1-3
+Added Pin To Net: NetName=DIN_SK6812 Pin=P1-2
+Added Net: Name=DIN_SK6812
+Added Net: Name=DIN_WS2812_1
+Added Net: Name=DIN_WS2812_2
+Added Pin To Net: NetName=DIN_WS2812 Pin=D12-1
+Added Pin To Net: NetName=DIN_WS2812 Pin=P1-3
+Added Net: Name=DIN_WS2812
+Added Pin To Net: NetName=DOUT1 Pin=D1-1
+Added Pin To Net: NetName=DOUT1 Pin=D2-3
+Added Net: Name=DOUT1
+Added Pin To Net: NetName=DOUT2 Pin=D2-1
+Added Pin To Net: NetName=DOUT2 Pin=D3-3
+Added Net: Name=DOUT2
+Added Pin To Net: NetName=DOUT3 Pin=D3-1
+Added Pin To Net: NetName=DOUT3 Pin=D4-3
+Added Net: Name=DOUT3
+Added Pin To Net: NetName=DOUT4 Pin=D4-1
+Added Pin To Net: NetName=DOUT4 Pin=D5-3
+Added Net: Name=DOUT4
+Added Pin To Net: NetName=DOUT5 Pin=D5-1
+Added Pin To Net: NetName=DOUT5 Pin=D6-3
+Added Net: Name=DOUT5
+Added Pin To Net: NetName=DOUT6 Pin=D6-1
+Added Pin To Net: NetName=DOUT6 Pin=D7-3
+Added Net: Name=DOUT6
+Added Pin To Net: NetName=DOUT7 Pin=D7-1
+Added Pin To Net: NetName=DOUT7 Pin=D8-3
+Added Net: Name=DOUT7
+Added Pin To Net: NetName=DOUT8 Pin=D8-1
+Added Pin To Net: NetName=DOUT8 Pin=D9-3
+Added Net: Name=DOUT8
+Added Pin To Net: NetName=DOUT9 Pin=D9-1
+Added Pin To Net: NetName=DOUT9 Pin=D10-3
+Added Net: Name=DOUT9
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=GND Pin=D9-2
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Pin To Net: NetName=GND Pin=D12-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=R1-1
+Added Net: Name=NetP1_1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VDD Pin=C1-1
+Added Pin To Net: NetName=VDD Pin=C2-1
+Added Pin To Net: NetName=VDD Pin=D1-4
+Added Pin To Net: NetName=VDD Pin=D2-4
+Added Pin To Net: NetName=VDD Pin=D3-4
+Added Pin To Net: NetName=VDD Pin=D4-4
+Added Pin To Net: NetName=VDD Pin=D5-4
+Added Pin To Net: NetName=VDD Pin=D6-4
+Added Pin To Net: NetName=VDD Pin=D7-4
+Added Pin To Net: NetName=VDD Pin=D8-4
+Added Pin To Net: NetName=VDD Pin=D9-4
+Added Pin To Net: NetName=VDD Pin=D10-4
+Added Pin To Net: NetName=VDD Pin=D12-2
+Added Pin To Net: NetName=VDD Pin=R1-2
+Added Net: Name=VDD

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=P4-1
+Removed Pin From Net: NetName=VCC Pin=P4-2
+Removed Pin From Net: NetName=DIN_SK6812_1 Pin=P4-3
+Removed Pin From Net: NetName=DIN_SK6812_2 Pin=P4-4
+Removed Pin From Net: NetName=DIN_WS2812_1 Pin=P4-5
+Removed Pin From Net: NetName=DIN_WS2812_2 Pin=P4-6
+Removed Pin From Net: NetName=GND Pin=P4-7
+Removed Pin From Net: NetName=GND Pin=P4-8
+Removed Member From Class: ClassName=Sheet2 Member=P4

@@ -1,0 +1,49 @@
+Change Component Footprint: Designator=P2 Old Footprint=MHDR1X4 New Footprint=HDR1X4
+Change Component Footprint: Designator=P3 Old Footprint=MHDR1X4 New Footprint=HDR1X4
+Change Component Comment : Designator=P2 Old Comment=MHDR1X4 New Comment=Header 4
+Change Component Comment : Designator=P3 Old Comment=MHDR1X4 New Comment=Header 4
+Added Pin To Net: NetName=DIN_SK6812_1 Pin=J1-1
+Added Pin To Net: NetName=DIN_SK6812_1 Pin=P2-2
+Added Net: Name=DIN_SK6812_1
+Added Pin To Net: NetName=DIN_SK6812_2_P Pin=J1-3
+Added Net: Name=DIN_SK6812_2_P
+Added Pin To Net: NetName=DIN_SK6812_2 Pin=P3-2
+Added Net: Name=DIN_SK6812_2
+Added Net: Name=DIN_SK6812
+Added Pin To Net: NetName=DIN_WS2812_1 Pin=J1-2
+Added Pin To Net: NetName=DIN_WS2812_1 Pin=P2-3
+Added Net: Name=DIN_WS2812_1
+Added Pin To Net: NetName=DIN_WS2812_2_P Pin=J1-4
+Added Net: Name=DIN_WS2812_2_P
+Added Pin To Net: NetName=DIN_WS2812_2 Pin=P3-3
+Added Net: Name=DIN_WS2812_2
+Added Net: Name=DIN_WS2812
+Added Net: Name=DOUT1
+Added Net: Name=DOUT2
+Added Net: Name=DOUT3
+Added Net: Name=DOUT4
+Added Net: Name=DOUT5
+Added Net: Name=DOUT6
+Added Net: Name=DOUT7
+Added Net: Name=DOUT8
+Added Net: Name=DOUT9
+Added Net: Name=DOUT_SK6812_1
+Added Net: Name=DOUT_SK6812_2
+Added Net: Name=DOUT_SK6812
+Added Net: Name=DOUT_WS2812_1
+Added Net: Name=DOUT_WS2812_2
+Added Net: Name=DOUT_WS2812
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Net: Name=GND
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P3-1
+Added Net: Name=VCC
+Added Net: Name=VDD
+Added Class: Name=Sheet2
+Added Room: Name=Sheet1

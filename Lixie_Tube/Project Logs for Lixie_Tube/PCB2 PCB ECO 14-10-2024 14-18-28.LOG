@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D12
+Added Pin To Net: NetName=DIN_WS2812 Pin=D12-1
+Added Pin To Net: NetName=VDD Pin=D12-2
+Added Pin To Net: NetName=GND Pin=D12-3
+Added Member To Class: ClassName=Sheet1 Member=Component D12 WS2812_Through_Hole_Thin

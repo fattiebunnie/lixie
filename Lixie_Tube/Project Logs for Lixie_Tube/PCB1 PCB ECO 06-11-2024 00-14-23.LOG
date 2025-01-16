@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DIN_SK6812_2 Pin=P7-8
+Added Pin To Net: NetName=DIN_WS2812_2 Pin=P7-8

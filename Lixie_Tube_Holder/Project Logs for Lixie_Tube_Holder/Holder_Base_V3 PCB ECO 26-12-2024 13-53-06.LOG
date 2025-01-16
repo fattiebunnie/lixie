@@ -1,0 +1,7 @@
+Change Component Comment : Designator=J5 Old Comment=B2B-XH-A(LF)(SN) New Comment=Battery Load Input
+Change Component Comment : Designator=J4 Old Comment=B3B-XH-A(LF)(SN) New Comment=Battery Charger Input
+Change Component Comment : Designator=P13 Old Comment=Header 2 New Comment=Data Out
+Change Component Comment : Designator=P11 Old Comment=Header 2 New Comment=Extra Clock Pins
+Change Component Comment : Designator=P10 Old Comment=Header 3 New Comment=Battery Charger Output
+Change Component Comment : Designator=P9 Old Comment=Header 6 New Comment=Clock Module
+Change Component Comment : Designator=P12 Old Comment=Header 6X2 New Comment=Extra Pins MCU

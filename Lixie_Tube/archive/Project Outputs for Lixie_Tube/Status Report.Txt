@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Lixie_Tube.PrjPcb]
+   Generated File[//unimelbcloud-my.sharepoint.com/personal/jeenghaol_student_unimelb_edu_au/Documents/project/lixietube/Lixie_Tube/Project Outputs for Lixie_Tube/BOM/Bill of Materials-Lixie_Tube.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 00:56:29 On 06/11/2024

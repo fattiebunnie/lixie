@@ -1,0 +1,22 @@
+Net Status Report
+Filename     : C:\Users\Bunny\OneDrive - The University of Melbourne\project\lixietube\Lixie_Tube\PCB1.PcbDoc
+Date         : 10/10/2024
+Time         : 17:05:34
+Time Elapsed : 00:00:01
+
+Nets, Layer, Length
+    DIN_SK6812, Signal Layers Only, 25.0569mm
+    DIN_WS2812, Signal Layers Only, 27.3669mm
+    DOUT1, Signal Layers Only, 9.8368mm
+    DOUT2, Signal Layers Only, 21.62mm
+    DOUT3, Signal Layers Only, 20.142mm
+    DOUT4, Signal Layers Only, 8.6173mm
+    DOUT5, Signal Layers Only, 21.0442mm
+    DOUT6, Signal Layers Only, 19.097mm
+    DOUT7, Signal Layers Only, 9.3308mm
+    DOUT8, Signal Layers Only, 21.6952mm
+    DOUT9, Signal Layers Only, 21.7941mm
+    GND, Signal Layers Only, 0mm
+    NetP1_1, Signal Layers Only, 2.8635mm
+    VDD, Signal Layers Only, 110.758mm
+count : 14
